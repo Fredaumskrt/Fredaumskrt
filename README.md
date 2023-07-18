@@ -1,4 +1,4 @@
-### Hi, eu sou o Frederico Malaquias 🤚
+### Hi, I am Frederico Malaquias 🤚
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://web.whatsapp.com/)
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdQxPzXKN35bkgxGxljRnTQ)
@@ -8,7 +8,7 @@
 ![Frederico GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredaumskrt&show_icons=true&theme=onedark)
 
 
-### Tecnologias que já foram utilizadas por mim criando projetos!
+### Technologies that have already been used by me creating projects!
 
 <div style = "display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
