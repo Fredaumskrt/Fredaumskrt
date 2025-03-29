@@ -1,4 +1,4 @@
-### Hi, I am Frederico Malaquias 🖖
+### Hi!
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fred_malaq3/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederico-malaquias-049243215/)
